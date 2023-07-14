@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 1
+! Version: 2
 ! Title: Di dong DEP
 ! Expires: 1 days (update frequency)
 !
@@ -36,3 +36,7 @@ metruyencv.com##.nt-fl-ad
 metruyencv.com##center.nh-read__pagination
 metruyencv.com##ul.flex-wrap.d-flex.list-unstyled:nth-of-type(2)
 metruyencv.com##.mb-2.flex-wrap.align-items-center.d-flex.list-unstyled
+www.nettruyenmax.com###nt_comments > .mrt10
+www.nettruyenmax.com##.txt-primary
+www.nettruyenmax.com##.top > i
+sayhentai.me###manga-reading-nav-head > .wp-manga-nav
