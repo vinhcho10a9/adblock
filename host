@@ -1,3 +1,13 @@
+[Adblock Plus 2.0]
+! Version: 20230714134046
+! Title: Di dong DEP List
+! Last modified: 14 Jul 2023 20:57:46 UTC+7
+! Expires: 1 days (update frequency)
+!
+! Di dong DEP 79 Bac Son Chuc Son Chuong My HN filter
+! Copyright: Di dong DEP 79 Bac Son Chuc Son Chuong My HN
+! Homepage: https://www.facebook.com/didongdep79bacson
+! ---------- Generic Blocking Rules ----------
 www.nettruyenmax.com##.hidden-sm.hidden-xs.mrb10.alert-info.alert
 www.nettruyenmax.com##.reading-control > .mrb5
 www.nettruyenmax.com##div.mrb10:nth-of-type(2)
