@@ -1,6 +1,5 @@
-[Adblock Plus 2.0]
 ! Title: Di dong DEP
-! Homepage: https://www.facebook.com/didongdep79bacson
+! Homepage: https://raw.githubusercontent.com/vinhcho10a9/adblock/main/host
 ! ---------- Generic Blocking Rules ----------
 www.nettruyenmax.com##.hidden-sm.hidden-xs.mrb10.alert-info.alert
 www.nettruyenmax.com##.reading-control > .mrb5
@@ -8,12 +7,6 @@ www.nettruyenmax.com##div.mrb10:nth-of-type(2)
 www.nettruyenmax.com##.notify_block
 www.nettruyenmax.com##.reading > div.container > div.row
 www.nettruyenmax.com##.footer
-sayhentai.me##.catfish
-sayhentai.me##.site-footer
-||i2.wp.com/truyenvnhot.net/wp-content/uploads/2022/12/truyenvn-gg-banner.jpg$image
-truyenvnmoi.net##.align-items-center.txt-chapter-control
-truyenvnmoi.net##.mb-3.font-semi-bold.font-16x.name
-truyenvnmoi.net##.lh-13.shadow.border.p-3.rounded.bg-white
 www.nettruyenmax.com###nt_comments > .mrt10
 www.nettruyenmax.com##.txt-primary
 www.nettruyenmax.com##.top > i
@@ -26,3 +19,9 @@ sayhentai.me##.col
 sayhentai.me###chapter-heading
 sayhentai.me###init-links
 sayhentai.me##.hidden-sm.hidden-xs.mrb10.alert-info.alert
+sayhentai.me##.catfish
+sayhentai.me##.site-footer
+||i2.wp.com/truyenvnhot.net/wp-content/uploads/2022/12/truyenvn-gg-banner.jpg$image
+truyenvnmoi.net##.align-items-center.txt-chapter-control
+truyenvnmoi.net##.mb-3.font-semi-bold.font-16x.name
+truyenvnmoi.net##.lh-13.shadow.border.p-3.rounded.bg-white
