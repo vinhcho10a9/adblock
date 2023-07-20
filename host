@@ -1,32 +1,3 @@
 ! Title: Di dong DEP
 ! Homepage: https://raw.githubusercontent.com/vinhcho10a9/adblock/main/host
-www.nettruyenmax.com##.hidden-sm.hidden-xs.mrb10.alert-info.alert
-www.nettruyenmax.com##.reading-control > .mrb5
-www.nettruyenmax.com##div.mrb10:nth-of-type(2)
-www.nettruyenmax.com##.notify_block
-www.nettruyenmax.com##.reading > div.container > div.row
-www.nettruyenmax.com##.footer
-www.nettruyenmax.com###nt_comments > .mrt10
-www.nettruyenmax.com##.txt-primary
-www.nettruyenmax.com##.top > i
-www.nettruyenmax.com##.facebook-like
-sayhentai.me##.description-summary
-sayhentai.me##.summary_content_wrap
-sayhentai.me##img[src="https://whos.amung.us/swidget/1sw4dvw7zz/"]
-sayhentai.me##.c-breadcrumb-wrapper
-sayhentai.me##.col
-sayhentai.me###chapter-heading
-sayhentai.me###init-links
-sayhentai.me##.hidden-sm.hidden-xs.mrb10.alert-info.alert
-sayhentai.me##.catfish
-sayhentai.me##.site-footer
-sayhentai.me##.col-sm-8.col-md-8.main-col > .font-heading.style-2.c-blog__heading
-sayhentai.me##.related-manga.row
-sayhentai.me##div.popular:nth-of-type(2)
-sayhentai.me###binhluan
-sayhentai.me###WSMWKFYI
-||i2.wp.com/truyenvnhot.net/wp-content/uploads/2022/12/truyenvn-gg-banner.jpg$image
-truyenvnmoi.net##.align-items-center.txt-chapter-control
-truyenvnmoi.net##.mb-3.font-semi-bold.font-16x.name
-truyenvnmoi.net##.lh-13.shadow.border.p-3.rounded.bg-white
-m.truyen.tangthuvien.vn##.pdd-6.wd-f100.chap-c > div
+##.notify_block
