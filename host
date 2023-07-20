@@ -2,3 +2,4 @@
 ! Homepage: https://raw.githubusercontent.com/vinhcho10a9/adblock/main/host
 !
 ##.notify_block
+##.reading > div.container > div.row
