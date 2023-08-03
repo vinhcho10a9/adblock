@@ -14,9 +14,6 @@ lolchess.gg##.VenatusAdContainer
 lolchess.gg###ad-container-meta1
 www.metatft.com##.AppAdContainerRight.AppAdContainer
 www.metatft.com##.PageHeader2
-www.nettruyenmax.com##.hidden-sm.hidden-xs.mrb10.alert-info.alert
-www.nettruyenmax.com##.mrb5 > .mrt10
-www.nettruyenmax.com##div.mrb10:nth-of-type(2)
-www.nettruyenmax.com##.reading-control > .mrb5
-www.nettruyenmax.com##.top
-www.nettruyenmax.com###nt_comments > .mrt10
+www.nettruyenmax.com##div.row:nth-of-type(3)
+www.nettruyenmax.com##.reading > div.container > div.row
+www.nettruyenmax.com##.notify_block
