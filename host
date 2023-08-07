@@ -3,7 +3,6 @@
 ! Version: 22.07.2023
 !
 ##.notify_block
-##.reading > div.container > div.row
 ##.facebook-like
 ||focus.cn^
 ||360buyimg.com^
