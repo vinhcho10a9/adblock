@@ -1,6 +1,6 @@
 ! Title: Di dong DEP
 ! Homepage: https://raw.githubusercontent.com/vinhcho10a9/adblock/main/host
-! Version: 07.08.2023
+! Version: 19.08.2023
 !
 ##.notify_block
 ##.facebook-like
@@ -8,7 +8,6 @@
 ||360buyimg.com^
 ##.site-footer
 ##.footer
-!
 lolchess.gg##.VenatusAdContainer
 lolchess.gg###ad-container-meta1
 www.metatft.com##.AppAdContainerRight.AppAdContainer
@@ -16,3 +15,9 @@ www.metatft.com##.PageHeader2
 www.nettruyenmax.com##div.row:nth-of-type(3)
 www.nettruyenmax.com##.reading > div.container > div.row
 www.nettruyenmax.com##.notify_block
+snapsave.app###dlModal
+we25.vn##.div-em
+open.spotify.com##.GenericModal__overlay--afterOpen.GenericModal__overlay--animated.GenericModal__overlay
+www.nettruyenmax.com##.hidden-sm.hidden-xs.mrb10.alert-info.alert
+www.nettruyenmax.com##.reading-control > .mrb5
+www.nettruyenmax.com##div.mrb10:nth-of-type(2)
