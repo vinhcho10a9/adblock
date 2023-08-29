@@ -1,6 +1,6 @@
 ! Title: DidongDEP
 ! Homepage: https://raw.githubusercontent.com/vinhcho10a9/adblock/main/host
-! Version: 19.08.2023
+! Version: 29.08.2023
 !
 ##.notify_block
 ##.facebook-like
@@ -21,3 +21,8 @@ open.spotify.com##.GenericModal__overlay--afterOpen.GenericModal__overlay--anima
 www.nettruyenmax.com##.hidden-sm.hidden-xs.mrb10.alert-info.alert
 www.nettruyenmax.com##.reading-control > .mrb5
 www.nettruyenmax.com##div.mrb10:nth-of-type(2)
+rotator.nurul-huda.sch.id###satoshi1
+rotator.nurul-huda.sch.id###satoshi2
+rotator.nurul-huda.sch.id##div:nth-of-type(6)
+rotator.nurul-huda.sch.id##b
+rotator.nurul-huda.sch.id##img.divider:nth-of-type(2)
