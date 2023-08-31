@@ -26,3 +26,9 @@ rotator.nurul-huda.sch.id###satoshi2
 rotator.nurul-huda.sch.id##div:nth-of-type(6)
 rotator.nurul-huda.sch.id##b
 rotator.nurul-huda.sch.id##img.divider:nth-of-type(2)
+www.cgv.vn###cboxOverlay
+metruyencv.com##.rounded.mt-3.nh-read__comments
+metruyencv.com###js-read__content > div:nth-of-type(3)
+metruyencv.com###js-read__content > div:nth-of-type(2)
+metruyencv.com##.px-4.py-3.mb-0.h4.justify-content-center.align-items-center.d-flex.nh-read__pagination--report
+metruyencv.com##.mt-5.justify-content-center.d-flex
