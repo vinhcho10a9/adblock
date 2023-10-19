@@ -33,6 +33,9 @@ metruyencv.com###js-read__content > div:nth-of-type(2)
 metruyencv.com##.px-4.py-3.mb-0.h4.justify-content-center.align-items-center.d-flex.nh-read__pagination--report
 metruyencv.com##.mt-5.justify-content-center.d-flex
 www.nettruyenus.com##.mrb5.text-center.container
-www.youtube.com##.opened
-www.youtube.com##ytd-popup-container.ytd-app.style-scope
-youtube.com##+js(set, yt.config_.openPopupConfig.supportedPopups.adBlockMessageViewModel, false) youtube.com##+js(set, Object.prototype.adBlocksFound, 0) youtube.com##+js(set, ytplayer.config.args.raw_player_response.adPlacements, []) youtube.com##+js(set, Object.prototype.hasAllowedInstreamAd, true)
+youtube.com#?#ytd-enforcement-message-view-model:has(> div.ytd-enforcement-message-view-model)
+youtube.com#$#tp-yt-iron-overlay-backdrop { display: none !important; }
+youtube.com#$?#tp-yt-paper-dialog:has(> ytd-enforcement-message-view-model > div.ytd-enforcement-message-view-model) { remove: true; }
+! For the overlay
+youtube.com#$#ytd-watch-flexy[player-unavailable] #player-container-outer.ytd-watch-flexy { visibility: visible !important; }
+youtube.com#$?#yt-playability-error-supported-renderers:has(yt-button-view-model[dialog-dismiss]) { display: none !important; }
