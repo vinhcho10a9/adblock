@@ -1,5 +1,5 @@
 ! Title: DidongDNS
-! Homepage: https://raw.githubusercontent.com/vinhcho10a9/adblock/main/dns
+! Homepage: https://raw.githubusercontent.com/vinhcho10a9/adblock/main/DNS.txt
 
 0.0.0.0 static.cdnno.com
 0.0.0.0 c.lazada.vn
