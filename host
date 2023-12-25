@@ -1,7 +1,6 @@
 ! Title: DidongDEP
 ! Homepage: https://raw.githubusercontent.com/vinhcho10a9/adblock/main/host
-! Version: 01.09.2023
-!
+
 ##.notify_block
 ##.facebook-like
 ||focus.cn^
