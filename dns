@@ -1,3 +1,7 @@
 ! Title: DidongDNS
-||static.cdnno.com^
-||c.lazada.vn^
+
+127.0.0.1  localhost
+::1  localhost
+
+127.0.0.1 static.cdnno.com
+127.0.0.1 c.lazada.vn
