@@ -11,15 +11,9 @@ lolchess.gg##.VenatusAdContainer
 lolchess.gg###ad-container-meta1
 www.metatft.com##.AppAdContainerRight.AppAdContainer
 www.metatft.com##.PageHeader2
-www.nettruyenbing.com##div.row:nth-of-type(3)
-www.nettruyenbing.com##.reading > div.container > div.row
-www.nettruyenbing.com##.notify_block
 snapsave.app###dlModal
 we25.vn##.div-em
 open.spotify.com##.GenericModal__overlay--afterOpen.GenericModal__overlay--animated.GenericModal__overlay
-www.nettruyenbing.com##.hidden-sm.hidden-xs.mrb10.alert-info.alert
-www.nettruyenbing.com##.reading-control > .mrb5
-www.nettruyenbing.com##div.mrb10:nth-of-type(2)
 rotator.nurul-huda.sch.id###satoshi1
 rotator.nurul-huda.sch.id###satoshi2
 rotator.nurul-huda.sch.id##div:nth-of-type(6)
@@ -31,7 +25,6 @@ metruyencv.com###js-read__content > div:nth-of-type(3)
 metruyencv.com###js-read__content > div:nth-of-type(2)
 metruyencv.com##.px-4.py-3.mb-0.h4.justify-content-center.align-items-center.d-flex.nh-read__pagination--report
 metruyencv.com##.mt-5.justify-content-center.d-flex
-www.nettruyenbing.com##.mrb5.text-center.container
 youtube.com#?#ytd-enforcement-message-view-model:has(> div.ytd-enforcement-message-view-model)
 youtube.com#$#tp-yt-iron-overlay-backdrop { display: none !important; }
 youtube.com#$?#tp-yt-paper-dialog:has(> ytd-enforcement-message-view-model > div.ytd-enforcement-message-view-model) { remove: true; }
