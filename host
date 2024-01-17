@@ -1,2 +1,10 @@
 ! Title: DidongDEP
 ! Homepage: https://raw.githubusercontent.com/vinhcho10a9/adblock/main/host
+
+www.nettruyenclub.com##.notify_block
+www.nettruyenclub.com##.txt-primary
+www.nettruyenclub.com##.top > i
+www.nettruyenclub.com##.hidden-sm.hidden-xs.mrb10.alert-info.alert
+www.nettruyenclub.com##.mrb5
+www.nettruyenclub.com##div.mrb10
+www.nettruyenclub.com##.footer
