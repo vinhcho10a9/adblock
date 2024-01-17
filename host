@@ -1,6 +1,15 @@
 ! Title: DidongDEP
 ! Homepage: https://raw.githubusercontent.com/vinhcho10a9/adblock/main/host
 
+
+||blitly.io^
+||web1s.asia^
+||traffic24h.net^
+||123s.link^
+||mneylink.com^
+||link2m.com^
+||ggoklink.com^
+
 www.nettruyenclub.com##.notify_block
 www.nettruyenclub.com##.txt-primary
 www.nettruyenclub.com##.top > i
