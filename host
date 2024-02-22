@@ -16,10 +16,12 @@ free4u.nurul-huda.or.id##.containernbt
 ||1short.info^
 ||memelink.net^
 
+www.nettruyenbb.com##.mrb5 > .mrt10
+www.nettruyenbb.com##div.mrb10:nth-of-type(2)
+www.nettruyenbb.com##.hidden-sm.hidden-xs.mrb10.alert-info.alert
+www.nettruyenbb.com##.reading-control > .mrb5
 www.nettruyenbb.com##.notify_block
 www.nettruyenbb.com##.txt-primary
 www.nettruyenbb.com##.top > i
-www.nettruyenbb.com##.hidden-sm.hidden-xs.mrb10.alert-info.alert
-www.nettruyenbb.com##.mrb5
-www.nettruyenbb.com##div.mrb10
-www.nettruyenbb.com##.footer
+www.nettruyenbb.com##.facebook-like
+www.nettruyenbb.com##div.row:nth-of-type(3)
