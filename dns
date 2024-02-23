@@ -1,5 +1,7 @@
 ! Title: DidongDNS
 ! Homepage: https://raw.githubusercontent.com/vinhcho10a9/adblock/main/dns
-
+! Updated: 21 Feb 2024 11:07 UTC+7
 0.0.0.0 static.cdnno.com
 0.0.0.0 c.lazada.vn
+0.0.0.0 52win.info
+0.0.0.0 king52.fun
