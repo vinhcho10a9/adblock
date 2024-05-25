@@ -2,12 +2,7 @@
 ! Homepage: https://raw.githubusercontent.com/vinhcho10a9/adblock/main/host
 ! Last modified: 05 Mar 2024 15:12:07 UTC+7
 
-www.nettruyenvv.com##.mrb5 > .mrt10
-www.nettruyenvv.com##div.mrb10:nth-of-type(2)
-www.nettruyenvv.com##.hidden-sm.hidden-xs.mrb10.alert-info.alert
-www.nettruyenvv.com##.reading-control > .mrb5
-www.nettruyenvv.com##.notify_block
-www.nettruyenvv.com##.txt-primary
-www.nettruyenvv.com##.top > i
-www.nettruyenvv.com##.facebook-like
-www.nettruyenvv.com##div.row:nth-of-type(3)
+truyenyy.pro##main.content:nth-child(2) > div.chapter:last-child > div.box:first-child > div.read-aloud:nth-child(7)
+truyenyy.pro##main.content:nth-child(2) > div.chapter:last-child > div.weui-cells:nth-child(4) > h3.cell-header:first-child
+truyenyy.pro##main.content:nth-child(2) > div.chapter:last-child > div.small.cell-box.text-muted:last-child
+truyenyy.pro##main.content:nth-child(2) > div.chapter:last-child > div.box:first-child > div:nth-child(7)
