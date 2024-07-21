@@ -4,11 +4,11 @@
 0.0.0.0 static.cdnno.com
 0.0.0.0 c.lazada.vn
 0.0.0.0 bendfrequency.com
-0.0.0.0 52win.info^
-0king52.fun^
-||shope.ee^
-||s.shopee.vn^
-||ldplayer.net^
-||ldmnq.com^
-||blitz-cdn-videos.blitz.gg^
-||minutemedia-prebid.com^
+0.0.0.0 52win.info
+0.0.0.0 king52.fun
+0.0.0.0 shope.ee
+|s.shopee.vn
+||ldplayer.net
+||ldmnq.com
+||blitz-cdn-videos.blitz.gg
+||minutemedia-prebid.com
