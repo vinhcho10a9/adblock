@@ -9,10 +9,5 @@ lightnovel.com.vn###chapterBody > div.text-center.text-4xl.text-hg_color_2:first
 lightnovel.com.vn###__next > div.chapter-page:nth-child(2) > main.mx-auto.max-w-5xl.chapter-body:last-child > div.p-3.lg\:p-7.relative.z-0.dark\:border-bd_dark:last-child
 lightnovel.com.vn###chapterBody > div.text-center.text-4xl.text-hg_color_2:nth-child(3)
 lightnovel.com.vn###__next > footer.border-t.border-bd_light.dark\:border-bd_dark:last-child
-truyenyy.pro##main.content:nth-child(2) > div.chapter:last-child > div.box:first-child > div:nth-child(7)
-truyenyy.pro###btn_like
-truyenyy.pro##main.content:nth-child(2) > div.chapter:last-child > div.small.cell-box.text-muted.read-aloud:last-child
-truyenyy.pro##main.content:nth-child(2) > div.chapter:last-child > div.weui-cells:nth-child(4)
-truyenyy.pro##main.content:nth-child(2) > div.chapter:last-child > div.small.cell-box.text-muted:last-child
 www.op.gg###opgg-video
 www.op.gg##.TextBanner-module_text-banner__yHonW.TextBanner-module_responsive__fv9Jo
