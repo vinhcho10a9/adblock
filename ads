@@ -14,3 +14,5 @@ truyenyy.pro###btn_like
 truyenyy.pro##main.content:nth-child(2) > div.chapter:last-child > div.small.cell-box.text-muted.read-aloud:last-child
 truyenyy.pro##main.content:nth-child(2) > div.chapter:last-child > div.weui-cells:nth-child(4)
 truyenyy.pro##main.content:nth-child(2) > div.chapter:last-child > div.small.cell-box.text-muted:last-child
+www.op.gg###opgg-video
+www.op.gg##.TextBanner-module_text-banner__yHonW.TextBanner-module_responsive__fv9Jo
