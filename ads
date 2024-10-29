@@ -11,3 +11,5 @@ lightnovel.com.vn###chapterBody > div.text-center.text-4xl.text-hg_color_2:nth-c
 lightnovel.com.vn###__next > footer.border-t.border-bd_light.dark\:border-bd_dark:last-child
 www.op.gg###opgg-video
 www.op.gg##.TextBanner-module_text-banner__yHonW.TextBanner-module_responsive__fv9Jo
+sayhentai.art##a[href="javascript:hide_catfish();"]>span
+sayhentai.art##img[alt="Oke9"]
