@@ -13,3 +13,28 @@ www.op.gg###opgg-video
 www.op.gg##.TextBanner-module_text-banner__yHonW.TextBanner-module_responsive__fv9Jo
 sayhentai.art##a[href="javascript:hide_catfish();"]>span
 sayhentai.art##img[alt="Oke9"]
+www.nimo.tv##.bc-brighter.n-as-rel.nimo-room__rank
+www.nimo.tv##.n-fx-col.n-fx-se.nimo-room__activity
+www.nimo.tv##.nimo-room__gift-shop-right.n-fx-ec.n-fx1
+www.nimo.tv##.n-as-rel.n-fx0 > .n-as-rel
+www.nimo.tv##.n-as-abs.n-fx-ss.nimo-room__player-room-meta.nimo-player__room-meta
+www.op.gg##.tier-and-cover-img
+www.op.gg##.e1yy8rkd1.css-1pdfkgb
+www.nimo.tv###side-bar > .sidebar-collapse
+||img.nimo.tv/o/banner/*.jpg/l0/img.webp$image
+||img.nimo.tv/o/activity/*.jpg/l0/img.jpg$image
+yeuphim.cc##.jw-reset.jw-logo-top-right.jw-logo
+www.metatft.com##.NavBarContainer > div
+www.metatft.com##.PageHeader2
+www.metatft.com##div.MetaTFTSideBar:nth-of-type(1)
+tft.op.gg##.left-wing
+tft.op.gg##.right-wing
+tft.op.gg##div.css-16y0h5z.desktop:nth-of-type(3)
+tft.op.gg###video-summoner-ad
+tft.op.gg##.css-l5n4ar > .css-16y0h5z.desktop
+tft.op.gg##div.css-16y0h5z.desktop:nth-of-type(5)
+phimmoii.org##.float-ck-center-lt
+phimmoii.org##div.container:nth-of-type(2)
+phimmoii.org##div.text-center:nth-of-type(4)
+phimmoinet.tv##div.container:nth-of-type(4)
+phimmoinet.tv##div.container:nth-of-type(2)
