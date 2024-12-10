@@ -38,3 +38,9 @@ phimmoii.org##div.container:nth-of-type(2)
 phimmoii.org##div.text-center:nth-of-type(4)
 phimmoinet.tv##div.container:nth-of-type(4)
 phimmoinet.tv##div.container:nth-of-type(2)
+nettruyenww.com##.detail-content
+nettruyenww.com##.notify_block
+nettruyenww.com##.hidden-sm.hidden-xs.mrb10.alert-info.alert
+nettruyenww.com##.mrb5 > .text-danger
+nettruyenww.com##div.mrb10:nth-of-type(2)
+nettruyenww.com##.footer
