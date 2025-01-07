@@ -44,5 +44,3 @@ nettruyenww.com##.hidden-sm.hidden-xs.mrb10.alert-info.alert
 nettruyenww.com##.mrb5 > .text-danger
 nettruyenww.com##div.mrb10:nth-of-type(2)
 nettruyenww.com##.footer
-*$font,third-party
-truyen.audio##.overflow-clip.py-\[2px\].rounded-\[5px\].dark\:bg-gray-900.bg-gray-200.items-center.justify-center.flex-col.flex.w-full.my-\[15px\]
