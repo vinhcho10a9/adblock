@@ -44,4 +44,3 @@ nettruyenww.com##.hidden-sm.hidden-xs.mrb10.alert-info.alert
 nettruyenww.com##.mrb5 > .text-danger
 nettruyenww.com##div.mrb10:nth-of-type(2)
 nettruyenww.com##.footer
-||truyen.audio/_next/image$image
