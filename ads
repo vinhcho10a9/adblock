@@ -22,3 +22,4 @@ shopee.vn##.shop-decoration
 @@||shopnickre24h.com^
 @@||muahack.com^
 @@||lienminhshop.vn^
+||browser.coccoc.com^
