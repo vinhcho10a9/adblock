@@ -23,3 +23,11 @@ shopee.vn##.shop-decoration
 @@||muahack.com^
 @@||lienminhshop.vn^
 ||browser.coccoc.com^
+sayhentai.ink##body > div > iframe
+sayhentai.ink##.text-center.d-md-none.d-sm-block.lhihi.adsmobile.col-12.item
+sayhentai.ink##.ehihi.col-md-12.custom-code.c-ads.ad > .container > .row > div.col-md-6
+sayhentai.ink##div.text-center.d-md-none.d-sm-block.lhihi.adsmobile.col-md-4
+sayhentai.ink##.site-footer
+sayhentai.ink##.fhihi.col-md-12.custom-code.c-ads.ad
+sayhentai.ink##.col-md-6.d-md-none.d-sm-block
+
