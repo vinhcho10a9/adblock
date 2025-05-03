@@ -30,4 +30,6 @@ sayhentai.ink##div.text-center.d-md-none.d-sm-block.lhihi.adsmobile.col-md-4
 sayhentai.ink##.site-footer
 sayhentai.ink##.fhihi.col-md-12.custom-code.c-ads.ad
 sayhentai.ink##.col-md-6.d-md-none.d-sm-block
-
+sangtacviet.com##.read-aloud.bg-light.container
+sangtacviet.com###tm-credit-section
+sangtacviet.com##div.bg-light.container
