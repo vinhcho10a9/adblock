@@ -33,3 +33,4 @@ sayhentai.ink##.col-md-6.d-md-none.d-sm-block
 sangtacviet.com##.read-aloud.bg-light.container
 sangtacviet.com###tm-credit-section
 sangtacviet.com##div.bg-light.container
+||loigiai.com.vn^
