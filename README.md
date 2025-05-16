@@ -21,3 +21,9 @@ https://filters.adtidy.org/extension/ublock/filters/2_without_easylist.txt
 
 AdGuard – Mobile Ads
 https://filters.adtidy.org/extension/ublock/filters/11.txt
+
+ABPVN List
+https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn_ublock.txt
+
+DidongDEP
+https://raw.githubusercontent.com/vinhcho10a9/adblock/main/ads
