@@ -12,3 +12,12 @@ https://ublockorigin.github.io/uAssetsCDN/filters/quick-fixes.min.txt
 
 uBlock filters – Unbreak
 https://cdn.statically.io/gh/uBlockOrigin/uAssetsCDN/main/filters/unbreak.min.txt
+
+EasyList
+https://ublockorigin.pages.dev/thirdparties/easylist.txt
+
+AdGuard – Ads
+https://filters.adtidy.org/extension/ublock/filters/2_without_easylist.txt
+
+AdGuard – Mobile Ads
+https://filters.adtidy.org/extension/ublock/filters/11.txt
