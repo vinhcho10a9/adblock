@@ -13,6 +13,9 @@ https://ublockorigin.github.io/uAssetsCDN/filters/quick-fixes.min.txt
 uBlock filters – Unbreak
 https://cdn.statically.io/gh/uBlockOrigin/uAssetsCDN/main/filters/unbreak.min.txt
 
+uBlock filters – Annoyances
+https://ublockorigin.github.io/uAssets/filters/annoyances-others.txt
+
 EasyList
 https://ublockorigin.pages.dev/thirdparties/easylist.txt
 
