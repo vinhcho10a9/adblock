@@ -27,3 +27,6 @@ https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn_ublock.txt
 
 DidongDEP
 https://raw.githubusercontent.com/vinhcho10a9/adblock/main/ads
+
+Adblock Warning Removal List
+https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
