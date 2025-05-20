@@ -36,3 +36,5 @@ sangtacviet.com##div.bg-light.container
 ||loigiai.com.vn^
 ||internetdownloadmanager.com^
 ||registeridm.com^
+0.0.0.0 184.173.188.106
+0.0.0.0 184.173.188.107
