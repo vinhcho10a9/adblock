@@ -34,3 +34,5 @@ sangtacviet.com##.read-aloud.bg-light.container
 sangtacviet.com###tm-credit-section
 sangtacviet.com##div.bg-light.container
 ||loigiai.com.vn^
+||internetdownloadmanager.com^
+||registeridm.com^
