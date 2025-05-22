@@ -1,6 +1,7 @@
 ! Title: DidongDEP
 ! Homepage: https://raw.githubusercontent.com/vinhcho10a9/adblock/refs/heads/main/ads.txt
 
+www.metatft.com##.PageHeader2
 www.metatft.com##.Large.MetaTFTSideBarRight
 www.metatft.com##.Large.MetaTFTSideBarLeft
 lienminhshop.vn##.embed-responsive-16by9.embed-responsive
