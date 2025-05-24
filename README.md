@@ -29,7 +29,7 @@ ABPVN List
 https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn_ublock.txt
 
 DidongDEP
-https://raw.githubusercontent.com/vinhcho10a9/adblock/main/ads
+https://raw.githubusercontent.com/vinhcho10a9/adblock/main/ads.txt
 
 Adblock Warning Removal List
 https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
