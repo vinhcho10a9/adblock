@@ -33,3 +33,9 @@ https://raw.githubusercontent.com/vinhcho10a9/adblock/main/ads.txt
 
 Adblock Warning Removal List
 https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
+
+Premium - Block cookie consent pop-ups
+https://easylist-downloads.adblockplus.org/v3/full/cookie-filter-list.txt
+
+Premium - Distraction Control
+https://easylist-downloads.adblockplus.org/v3/full/adblock_premium.txt
