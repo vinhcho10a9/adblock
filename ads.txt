@@ -32,3 +32,4 @@ shopee.vn##.shop-decoration
 ##.footer
 ||9bet.net^
 ||du88.com^
+##div.ytp-suggested-action
