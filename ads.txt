@@ -34,3 +34,4 @@ shopee.vn##shopee-banner-popup-stateful
 ||9bet.net^
 ||du88.com^
 www.youtube.com##div.ytp-suggested-action
+op.gg##.md\:flex.hidden.md\:max-w-\[1080px\].md\:w-auto.max-w-none.w-full.my-2.mx-auto.gap-1.box-border.overflow-hidden.rounded.bg-darkpurple-800.relative.items-center.justify-center.flex-col
