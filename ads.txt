@@ -6,7 +6,6 @@ www.metatft.com##.Large.MetaTFTSideBarRight
 www.metatft.com##.Large.MetaTFTSideBarLeft
 lienminhshop.vn##.embed-responsive-16by9.embed-responsive
 shopee.vn##.shop-decoration
-shopee.vn##shopee-banner-popup-stateful
 ||static.cdnno.com^
 ||c.lazada.vn^
 ||bendfrequency.com^
