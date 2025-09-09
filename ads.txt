@@ -37,3 +37,4 @@ op.gg##.md\:flex.hidden.md\:max-w-\[1080px\].md\:w-auto.max-w-none.w-full.my-2.m
 xx.knit.bid##div.clickadu-container:nth-of-type(1)
 xx.knit.bid##div.clickadu-container:nth-of-type(5)
 xx.knit.bid##div.clickadu-container:nth-of-type(7)
+nettruyenvia.com##.show-sps.banner-container
