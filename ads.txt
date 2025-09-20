@@ -39,3 +39,5 @@ xx.knit.bid##div.clickadu-container:nth-of-type(1)
 xx.knit.bid##div.clickadu-container:nth-of-type(5)
 xx.knit.bid##div.clickadu-container:nth-of-type(7)
 nettruyenvia.com##.show-sps.banner-container
+||mssdk-sg.tiktok.com^
+||mcs-sg.tiktokv.com^
