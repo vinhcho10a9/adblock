@@ -9,7 +9,7 @@ shopee.vn##.shop-decoration
 ||static.cdnno.com^
 ||c.lazada.vn^
 ||bendfrequency.com^
-||52win.info^
+||api-verification-alisg.tiktokshop.com^
 ||king52.fun^
 ||shope.ee^
 ||vt.tiktok.com^
