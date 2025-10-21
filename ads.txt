@@ -40,3 +40,4 @@ xx.knit.bid##div.clickadu-container:nth-of-type(1)
 xx.knit.bid##div.clickadu-container:nth-of-type(5)
 xx.knit.bid##div.clickadu-container:nth-of-type(7)
 ||apivn.ldmnq.com^
+||play-fe.googleapis.com^
