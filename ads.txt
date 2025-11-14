@@ -32,7 +32,6 @@ shopee.vn##.shop-decoration
 ###catfish_content
 ##.footer
 ##.top_footer
-##savior-host
 ||9bet.net^
 ||du88.com^
 www.youtube.com##div.ytp-suggested-action
