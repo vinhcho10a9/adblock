@@ -30,7 +30,7 @@ shopee.vn##.shop-decoration
 0.0.0.0 184.173.188.106
 0.0.0.0 184.173.188.107
 ###catfish_content
-##.footer
+!##.footer
 ##.top_footer
 ||9bet.net^
 ||du88.com^
