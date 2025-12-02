@@ -44,3 +44,7 @@ op.gg##.text-right.overflow-x-hidden.gap-2.items-end.flex-col.flex.top-2.-left-2
 op.gg##.text-left.overflow-x-hidden.gap-2.items-start.flex-col.flex.top-2.-right-2.absolute
 op.gg##.gap-3.flex-col.flex
 op.gg##.md\:justify-center.md\:items-center.md\:flex.gap-2.hidden
+op.gg##.text-right.overflow-x-hidden.gap-2.items-end.flex-col.flex.top-2.-left-2.absolute
+op.gg##.text-left.overflow-x-hidden.gap-2.items-start.flex-col.flex.top-2.-right-2.absolute
+op.gg##.md\:flex.w-\[405px\].h-\[225px\].hidden
+op.gg##.md\:p-0.md\:w-auto.pb-2.px-3.gap-3.items-center.flex-col.w-full.flex
