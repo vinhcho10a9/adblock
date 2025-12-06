@@ -39,6 +39,7 @@ op.gg##.md\:flex.hidden.md\:max-w-\[1080px\].md\:w-auto.max-w-none.w-full.my-2.m
 xx.knit.bid##div.clickadu-container:nth-of-type(1)
 xx.knit.bid##div.clickadu-container:nth-of-type(5)
 xx.knit.bid##div.clickadu-container:nth-of-type(7)
+xx.knit.bid##div.clickadu-container
 ||apivn.ldmnq.com^
 op.gg##.text-right.overflow-x-hidden.gap-2.items-end.flex-col.flex.top-2.-left-2.absolute
 op.gg##.text-left.overflow-x-hidden.gap-2.items-start.flex-col.flex.top-2.-right-2.absolute
