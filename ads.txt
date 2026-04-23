@@ -40,6 +40,7 @@ xx.knit.bid##div.clickadu-container
 xx.knit.bid##.show.adblock-notice
 xx.knit.bid###site-notices-bottom
 xx.knit.bid###vip-float-button
+xx.knit.bid##.vip-browsing-promo--anon.vip-browsing-promo
 ||apivn.ldmnq.com^
 op.gg##.text-right.overflow-x-hidden.gap-2.items-end.flex-col.flex.top-2.-left-2.absolute
 op.gg##.text-left.overflow-x-hidden.gap-2.items-start.flex-col.flex.top-2.-right-2.absolute
