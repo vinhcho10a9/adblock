@@ -53,3 +53,4 @@ op.gg##.md\:p-0.md\:w-auto.pb-2.px-3.gap-3.items-center.flex-col.w-full.flex
 ##.show-sps.banner-container
 ##.notify_block
 ##.banner-adu-top.check-show-sps
+sayhentai.sh###say-inpage-push
