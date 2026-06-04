@@ -1,7 +1,5 @@
 https://raw.githubusercontent.com/vinhcho10a9/adblock/refs/heads/main/ads.txt
 
-https://greasyfork.org/vi/scripts/552364-stv-fix
-
 uBlock filters – Ads
 https://ublockorigin.pages.dev/filters/filters.min.txt
 
