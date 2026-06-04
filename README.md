@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/vinhcho10a9/adblock/refs/heads/main/ads.txt
+raw.githubusercontent.com/vinhcho10a9/adblock/refs/heads/main/ads.txt
 
 uBlock filters – Ads
 https://ublockorigin.pages.dev/filters/filters.min.txt
