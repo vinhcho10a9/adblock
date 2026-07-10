@@ -51,7 +51,7 @@ op.gg##.text-right.overflow-x-hidden.gap-2.items-end.flex-col.flex.top-2.-left-2
 op.gg##.text-left.overflow-x-hidden.gap-2.items-start.flex-col.flex.top-2.-right-2.absolute
 op.gg##.md\:flex.w-\[405px\].h-\[225px\].hidden
 op.gg##.md\:p-0.md\:w-auto.pb-2.px-3.gap-3.items-center.flex-col.w-full.flex
+op.gg##.md\:flex.w-\[430px\].h-\[250px\].hidden
 ##.show-sps.banner-container
 ##.notify_block
 ##.banner-adu-top.check-show-sps
-sayhentai.sh###say-inpage-push
