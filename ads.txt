@@ -1,4 +1,4 @@
-! Title: DidongDEP
+! Title: DDD
 ! Homepage: https://raw.githubusercontent.com/vinhcho10a9/adblock/refs/heads/main/ads.txt
 
 www.metatft.com##.PageHeader2
@@ -36,22 +36,12 @@ coccoc.com##.topNavigationBar-HLoX_
 ||9bet.net^
 ||du88.com^
 www.youtube.com##div.ytp-suggested-action
-op.gg##.md\:flex.hidden.md\:max-w-\[1080px\].md\:w-auto.max-w-none.w-full.my-2.mx-auto.gap-1.box-border.overflow-hidden.rounded.bg-darkpurple-800.relative.items-center.justify-center.flex-col
 xx.knit.bid##div.clickadu-container
 xx.knit.bid##.show.adblock-notice
 xx.knit.bid###site-notices-bottom
 xx.knit.bid###vip-float-button
 xx.knit.bid##.vip-browsing-promo--anon.vip-browsing-promo
 ||apivn.ldmnq.com^
-op.gg##.text-right.overflow-x-hidden.gap-2.items-end.flex-col.flex.top-2.-left-2.absolute
-op.gg##.text-left.overflow-x-hidden.gap-2.items-start.flex-col.flex.top-2.-right-2.absolute
-op.gg##.gap-3.flex-col.flex
-op.gg##.md\:justify-center.md\:items-center.md\:flex.gap-2.hidden
-op.gg##.text-right.overflow-x-hidden.gap-2.items-end.flex-col.flex.top-2.-left-2.absolute
-op.gg##.text-left.overflow-x-hidden.gap-2.items-start.flex-col.flex.top-2.-right-2.absolute
-op.gg##.md\:flex.w-\[405px\].h-\[225px\].hidden
-op.gg##.md\:p-0.md\:w-auto.pb-2.px-3.gap-3.items-center.flex-col.w-full.flex
-op.gg##.md\:flex.w-\[430px\].h-\[250px\].hidden
 ##.show-sps.banner-container
 ##.notify_block
 ##.banner-adu-top.check-show-sps
