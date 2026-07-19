@@ -48,3 +48,6 @@ www.speedtest.net##.css-0.MuiBox-root.u-c.pure-u-custom-ad-skyscraper
 www.speedtest.net##.css-0.MuiBox-root.py-4.max-w-\[764px\].w-full.mx-auto.eot-box-wrapper
 www.speedtest.net##.css-0.MuiBox-root.lowerboard-placeholder
 www.speedtest.net###target-section
+www.speedtest.net##.css-n6zmoi.MuiBox-root.pb-0.p-2.rounded-xl.overflow-hidden.max-w-\[360px\].mb-2
+www.speedtest.net##.css-0.MuiBox-root.sm\:flex-row.gap-4.justify-evenly.items-center.flex-col.w-full.flex
+www.speedtest.net##.css-0.MuiBox-root.overflow-x-clip.flex-col.min-h-screen.flex > .css-0.MuiBox-root
