@@ -35,7 +35,6 @@ coccoc.com##.topNavigationBar-HLoX_
 ##div.bg-light.container
 ||9bet.net^
 ||du88.com^
-www.youtube.com##div.ytp-suggested-action
 xx.knit.bid##div.clickadu-container
 xx.knit.bid##.show.adblock-notice
 xx.knit.bid###site-notices-bottom
@@ -45,3 +44,7 @@ xx.knit.bid##.vip-browsing-promo--anon.vip-browsing-promo
 ##.show-sps.banner-container
 ##.notify_block
 ##.banner-adu-top.check-show-sps
+www.speedtest.net##.css-0.MuiBox-root.u-c.pure-u-custom-ad-skyscraper
+www.speedtest.net##.css-0.MuiBox-root.py-4.max-w-\[764px\].w-full.mx-auto.eot-box-wrapper
+www.speedtest.net##.css-0.MuiBox-root.lowerboard-placeholder
+www.speedtest.net###target-section
