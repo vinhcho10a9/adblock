@@ -16,7 +16,7 @@ uBlock filters – Unbreak
 https://cdn.jsdelivr.net/gh/uBlockOrigin/uAssetsCDN@main/filters/unbreak.min.txt
 
 uBlock filters – Annoyances
-https://ublockorigin.github.io/uAssets/filters/annoyances-others.txt
+https://cdn.jsdelivr.net/gh/uBlockOrigin/uAssetsCDN@main/filters/annoyances.min.txt
 
 EasyList
 https://ublockorigin.pages.dev/thirdparties/easylist.txt
