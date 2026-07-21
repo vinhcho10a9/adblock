@@ -51,3 +51,4 @@ www.speedtest.net###target-section
 www.speedtest.net##.css-n6zmoi.MuiBox-root.pb-0.p-2.rounded-xl.overflow-hidden.max-w-\[360px\].mb-2
 www.speedtest.net##.css-0.MuiBox-root.sm\:flex-row.gap-4.justify-evenly.items-center.flex-col.w-full.flex
 www.speedtest.net##.css-0.MuiBox-root.overflow-x-clip.flex-col.min-h-screen.flex > .css-0.MuiBox-root
+##.site-footer
