@@ -40,7 +40,7 @@ xx.knit.bid##.show.adblock-notice
 xx.knit.bid###site-notices-bottom
 xx.knit.bid###vip-float-button
 xx.knit.bid##.vip-browsing-promo--anon.vip-browsing-promo
-||apivn.ldmnq.com^
+||ldmnq.com^
 ##.show-sps.banner-container
 ##.notify_block
 ##.banner-adu-top.check-show-sps
