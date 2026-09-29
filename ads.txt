@@ -54,3 +54,4 @@ www.speedtest.net##.css-0.MuiBox-root.overflow-x-clip.flex-col.min-h-screen.flex
 ##.site-footer
 ##.samVideoOverlay
 ###simple-ad-popup
+||down-zl-vn.vod.susercontent.com^$domain=shopee.vn
