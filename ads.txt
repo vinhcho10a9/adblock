@@ -54,3 +54,6 @@ www.speedtest.net##.css-0.MuiBox-root.overflow-x-clip.flex-col.min-h-screen.flex
 ##.site-footer
 ##.samVideoOverlay
 ###simple-ad-popup
+www.speedtest.net###content-card-stack
+www.speedtest.net###lower-content-body
+www.speedtest.net##.css-notzvf.MuiBox-root.sm\:hidden.motion-reduce\:animate-none.justify-center.items-center.cursor-pointer.animate-bounce.w-12.h-12.flex.bottom-2.right-0.absolute
