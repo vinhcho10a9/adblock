@@ -45,16 +45,6 @@ xx.knit.bid##.vip-browsing-promo--anon.vip-browsing-promo
 ##.show-sps.banner-container
 ##.notify_block
 ##.banner-adu-top.check-show-sps
-www.speedtest.net##.css-0.MuiBox-root.u-c.pure-u-custom-ad-skyscraper
-www.speedtest.net##.css-0.MuiBox-root.py-4.max-w-\[764px\].w-full.mx-auto.eot-box-wrapper
-www.speedtest.net##.css-0.MuiBox-root.lowerboard-placeholder
-www.speedtest.net###target-section
-www.speedtest.net##.css-n6zmoi.MuiBox-root.pb-0.p-2.rounded-xl.overflow-hidden.max-w-\[360px\].mb-2
-www.speedtest.net##.css-0.MuiBox-root.sm\:flex-row.gap-4.justify-evenly.items-center.flex-col.w-full.flex
-www.speedtest.net##.css-0.MuiBox-root.overflow-x-clip.flex-col.min-h-screen.flex > .css-0.MuiBox-root
 ##.site-footer
 ##.samVideoOverlay
 ###simple-ad-popup
-www.speedtest.net###content-card-stack
-www.speedtest.net###lower-content-body
-www.speedtest.net##.css-notzvf.MuiBox-root.sm\:hidden.motion-reduce\:animate-none.justify-center.items-center.cursor-pointer.animate-bounce.w-12.h-12.flex.bottom-2.right-0.absolute
