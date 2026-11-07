@@ -48,3 +48,5 @@ xx.knit.bid##.vip-browsing-promo--anon.vip-browsing-promo
 ##.site-footer
 ##.samVideoOverlay
 ###simple-ad-popup
+www.speedtest.net###content-card-stack
+www.speedtest.net###lower-content-body
